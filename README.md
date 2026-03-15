@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtecoder46" alt="dtecoder46" /></a> </p>
 
-- 🌱 I’m currently learning **Tableau, Java, and C#**
+- 🌱 I’m currently learning **Java and R**
 
 - 👨‍💻 All of my projects are available at [github.com/dtecoder46](github.com/dtecoder46)
 
 - 📝 I regularly write articles on [www.linkedin.com/in/daniel-te-4a5397322](www.linkedin.com/in/daniel-te-4a5397322)
 
+- Find me creating hot takes and comments on [daily.dev!](https://app.daily.dev/dtecoder46)
+
 - 📫 How to reach me **dte.biotech46@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ajth75KTsP7wwdA2cohc4lKx_bfZIrpl/edit?usp=sharing&ouid=115498624640482669657&rtpof=true&sd=true](https://docs.google.com/document/d/1ajth75KTsP7wwdA2cohc4lKx_bfZIrpl/edit?usp=sharing&ouid=115498624640482669657&rtpof=true&sd=true)
+- 📄 Know about my experiences: [My Data Analytics Resume](https://docs.google.com/document/d/1ajth75KTsP7wwdA2cohc4lKx_bfZIrpl/edit?usp=sharing&ouid=115498624640482669657&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am very friendly**
 
